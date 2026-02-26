@@ -44,12 +44,12 @@ export default function AdminPage() {
             Tổng quan và quản lý dữ liệu gia phả
           </p>
         </div>
-        <Button asChild>
+        {/* <Button asChild>
           <Link href="/admin/settings">
             <Settings className="h-4 w-4 mr-2" />
             Cài đặt
           </Link>
-        </Button>
+        </Button> */}
       </div>
 
       {/* Stats Grid */}
